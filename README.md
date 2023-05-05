@@ -13,10 +13,14 @@ A deep learning model (CNN Based) for Prediction of person's Age and Gender usin
 
 3) Cv2
 
+4) Scikit learn (SkLearn)
+
+5) Matplotlib
+
 
 ### Note:
 
-1) Upload UTKFace.tar file to your google drive
+1) Upload UTKFace.tar file to your google drive.
 
 2) After doing step 1, You can directly mount your drive to your Google colab and a new folder will be created named UTKFace which is obtained by extracting the contents present in UTKFace.tar file.
 
