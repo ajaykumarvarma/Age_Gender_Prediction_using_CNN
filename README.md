@@ -29,3 +29,9 @@ A deep learning model (CNN Based) for Prediction of person's Age and Gender usin
 4) For Improved performance Re-design neural network topology or you can increase size of image to 200*200 (original size of image present in UTKFace dataset).
 
 5) For our convenience and by considering training resources we are having, we decreased image size to 144*144. If you have good compute power then you can increase that as well. So you can get more performance output.
+
+### References:
+
+https://susanqq.github.io/UTKFace/
+
+https://arxiv.org/ftp/arxiv/papers/2110/2110.12633.pdf
